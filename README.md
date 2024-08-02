@@ -1,1 +1,1 @@
-SpringBootJPAExample
+SpringBoot CURD Example
