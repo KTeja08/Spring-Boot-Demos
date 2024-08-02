@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.datasourse.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasourse.username'"
+  },
+  {
+    "name": "spring.datasouse.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasouse.password'"
+  },
+  {
+    "name": "spring.datasouse.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasouse.driver-class-name'"
+  }
+]}
